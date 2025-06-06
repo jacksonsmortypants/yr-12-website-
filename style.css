@@ -1,3 +1,4 @@
+
 /* background */
 .topnav {
   background-color: #118ab2;
@@ -7,9 +8,9 @@
 /* style the links */
 .topnav a {
   float: left;
-  color: #f2f2f2;
+  color: #ffffff;
   text-align: center;
-  padding: 14px 16px;
+  padding: 18px 150px;
   text-decoration: none;
   font-size: 17px;
 }
@@ -22,6 +23,10 @@
 
 /* color of current link */
 .topnav a.active {
-  background-color: #04AA6D;
-  color: white;
+  background-color: #2d3e8b;
+  color: rgb(255, 255, 255);
 }
+
+  body {
+    background-color: #00bf63;
+  }
