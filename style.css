@@ -36,37 +36,40 @@
 font-family: gill 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 100px;
   padding-left: 150px;
-  padding-top: 10px;
+  padding-top: 100px;
+  line-height: 0px;
 }
 .WSCw {
   font-family: gill 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 100px;
   padding-left: 150px;
+  line-height: 0px;
 }
 /*text below title home page*/
 .entext {
   color: white;
   font-size: 50px;
-  padding-left: 100px;
+  padding-left: 40px;
 }
+/*
 .entext2 {
   color: white;
   font-size: 50px;
-  padding-left: 180px;
 }
 .entext3 {
   color: white;
   font-size: 50px;
-  padding-left: 160px;
 }
+*/
 /*image slider */
   .container {
     padding: 2rem;
+    padding-left: 200px;
   }
   
   .slider-wrapper {
     position: relative;
-    width: 50rem;
+    width: 40rem;
     margin: 0, auto;
     overflow: hidden;
   }
@@ -125,3 +128,8 @@ font-family: gill 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-ser
     width: 100%;
     display: flex;
   }
+
+.text-and-image {
+  display: flex;
+
+}
