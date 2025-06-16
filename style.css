@@ -65,6 +65,7 @@ font-family: gill 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-ser
   .container {
     padding: 2rem;
     padding-left: 200px;
+    
   }
   
   .slider-wrapper {
@@ -83,7 +84,23 @@ font-family: gill 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-ser
     scroll-behavior: smooth;
     box-shadow: 0 1.5rem 3rem -0.75rem hsla(0, 0%, 0%, 0.25);
     border-radius: 0.5rem;
+    animation: slide 8s infinite;
   }
+
+@keyframes slide{
+  0%{
+    transform: translateX(0);
+  }
+  50%{
+    transform: translateX(0);
+  }
+  55%{
+    transform: translateX(-100);
+  }
+  100%{
+    transform: translateX(-100);
+  }
+}
 
   .slider img {
     width: 100%;
