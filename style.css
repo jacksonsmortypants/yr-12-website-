@@ -167,10 +167,19 @@ font-family: gill 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-ser
   color: white;
   font: bold;
   display: flex;
-  padding-left: 150px;
+  padding-left: 100px;
+  padding-right: 100px;
 
 }
 .sport2{
-  padding-left: 200px;
+  padding-left: 400px;
+  
 }
 
+.titttle{
+  display: flex;
+}
+.winter{
+  font-size: 40px;
+  padding-left: 60px;
+}
