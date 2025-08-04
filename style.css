@@ -160,6 +160,8 @@ font-family: gill 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-ser
 
 .summersport{
   font-size: 40px;
+  padding-left: 300px;
+  color: white;
 }
 
 .sport1{
@@ -167,7 +169,7 @@ font-family: gill 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-ser
   color: white;
   font: bold;
   display: flex;
-  padding-left: 100px;
+  padding-left: 400px;
   padding-right: 100px;
 
 }
@@ -182,4 +184,12 @@ font-family: gill 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-ser
 .winter{
   font-size: 40px;
   padding-left: 60px;
+  color: white;
+}
+
+.sportbackground{
+  background-image: url(sportbackgroundgood.jpg);
+  background-repeat: no-repeat;
+  background-size: cover
+
 }
