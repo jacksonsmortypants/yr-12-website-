@@ -193,3 +193,24 @@ font-family: gill 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-ser
   background-size: cover
 
 }
+
+
+.timetableimg1{
+  display: flex;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+
+.timetableimg2{
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.timetableimg3{
+  display: flex;
+}
+
+.back{
+  background-color: black;
+}
+
