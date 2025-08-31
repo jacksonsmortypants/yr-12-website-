@@ -237,12 +237,12 @@ font-family: gill 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-ser
 }
 
 .row2{
-  font-size: 30px;
-  padding-left: 150px;
+  font-size: 20px;
+
   display: flex;
 }
 .imgg{
-  padding-left: 400px;
+  padding-left: 10px;
 }
 .fullrules{
   padding-left: 150px;
