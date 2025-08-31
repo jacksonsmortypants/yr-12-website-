@@ -214,3 +214,36 @@ font-family: gill 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-ser
   background-color: black;
 }
 
+.st{
+  font-size: 100px;
+  padding-left: 30%;
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.line1{
+  font-size: 40px;
+  color: white;
+  display: flex;
+  padding-left: 200px;
+}
+.pad{
+  padding-left: 110px;
+
+}
+
+.pad1{
+  padding-left: 200px;
+}
+
+.row2{
+  font-size: 30px;
+  padding-left: 150px;
+  display: flex;
+}
+.imgg{
+  padding-left: 400px;
+}
+.fullrules{
+  padding-left: 150px;
+}
